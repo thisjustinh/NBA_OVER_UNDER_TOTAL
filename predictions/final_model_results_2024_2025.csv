@@ -1,9 +1,9 @@
 Model,Predicting,MAE,RMSE,R2 Score,Winner Accuracy
-Linear Regression,HomePTS,9.19,11.43,0.1954,
-Linear Regression,AwayPTS,9.23,11.57,0.1831,0.6834
-Lasso Regression,HomePTS,9.19,11.42,0.1963,
-Lasso Regression,AwayPTS,9.23,11.57,0.1832,0.683
-XGBoost,HomePTS,9.28,11.55,0.1775,
-XGBoost,AwayPTS,9.31,11.71,0.1631,0.6606
-LightGBM,HomePTS,9.22,11.47,0.1889,
-LightGBM,AwayPTS,9.26,11.67,0.1698,0.671
+Linear Regression,HomePTS,9.01,11.25,0.2054,
+Linear Regression,AwayPTS,9.09,11.42,0.2011,0.6913
+Lasso Regression,HomePTS,9.13,11.36,0.1894,
+Lasso Regression,AwayPTS,9.21,11.58,0.1779,0.6836
+XGBoost,HomePTS,9.08,11.31,0.197,
+XGBoost,AwayPTS,9.15,11.53,0.1856,0.6672
+LightGBM,HomePTS,9.1,11.32,0.1948,
+LightGBM,AwayPTS,9.13,11.51,0.188,0.6742
